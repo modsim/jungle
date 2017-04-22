@@ -1,0 +1,31 @@
+# Generated *.jar files
+*.jar
+
+# Folder for generated class files
+bin/
+target/
+
+# Eclipse specific stuff
+.project
+.settings/
+.externalToolBuilders/
+.classpath
+
+# Javadoc folder
+doc/
+
+# External stuff
+external/
+
+# Caching
+cache/*.key
+cache/*.data
+
+# UML diagrams
+*.ucls
+
+# Local Maven(2) repository
+repo/
+
+# Sezpoz
+.factorypath
